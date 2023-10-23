@@ -15,3 +15,13 @@
 <div>
 <h1> Профиль на GITHUB </h1>
 </div>
+
+### :raised_eyebrow: Обо мне:
+
+- :thinking: факт обо мне
+
+- :cry: факт обо мне
+
+- :flushed: факт обо мне
+
+### :hammer_and_wrench: Языки и инструменты :
