@@ -25,3 +25,31 @@
 - :flushed: факт обо мне
 
 ### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" width="40" height="40"/>
+</div>
+
+### :trophy: Достижения "
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Foxeeeg" alt=""/>
+</div>
+
+### :keyboard: Наиболее используемые языки :
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxeeeg" alt=""/>
+</div>
+
+### :bar_chart: Статистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Foxeeeg&theme=react-dark" alt=""/>
+</div>
+
+
