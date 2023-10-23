@@ -11,3 +11,7 @@
 <div id="viewprof" align="center" >
   <img src="https://komarev.com/ghpvc/?username=Foxeeeg&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div>
+<h1> Профиль на GITHUB </h1>
+</div>
